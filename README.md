@@ -1,21 +1,4 @@
-iBook App
-E-commerce for books with online payments,
 
-<<<<<<< HEAD
-iBook, is a multi-feature Flutter app with:
-
-E-commerce for books (Cart → Shipping Info → Checkout → Paymob Integration).
-
-Chat & Chatbot for user support.
-
-User Profiles for personalization.
-
-Blog Section to share articles and recommendations.
-
-
-Tech stack:
-
-Flutter + GetX for state management# 📚 Booksi
 
 **Booksi** is a multi-feature Flutter app that brings together e-commerce, chat, and personalization in one elegant experience.
 
