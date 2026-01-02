@@ -1,6 +1,6 @@
 
 
-**Booksi** is a multi-feature Flutter app that brings together e-commerce, chat, and personalization in one elegant experience.
+**iBook** is a multi-feature Flutter app that brings together e-commerce, chat, and personalization in one elegant experience.
 
 ---
 
