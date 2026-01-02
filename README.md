@@ -6,7 +6,7 @@
 
 ##  Features
 
--  **E-commerce for Books** — Browse, add to cart, enter shipping info, checkout, and pay via **Paymob Integration**.  
+-  **E-commerce for Books** — Browse,exchange add to cart, enter shipping info, checkout, and pay via **Paymob Integration**.  
 -  **Chat & Chatbot** — Built-in support chat and AI-powered assistant for user help.  
 -  **User Profiles** — Personalized dashboards and settings.  
 -  **Blog Section** — Read and share articles & recommendations.
