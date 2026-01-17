@@ -13,17 +13,6 @@
 
 ---
 
-##  Tech Stack
-
-| Category | Tools |
-|-----------|--------|
-| Framework | Flutter |
-| State Management | GetX |
-| Backend | Firebase (Auth + Firestore) |
-| Payment Integration | Paymob |
-| Architecture | Feature-Based + Modular (MVC, MVVM) |
-
----
 
 ##  Screenshots
 
@@ -110,6 +99,19 @@
 <p align="center"><i>Clean & modern UI – fully responsive on Android & iOS 📲</i></p>
 
 ---
+
+##  Tech Stack
+
+| Category | Tools |
+|-----------|--------|
+| Framework | Flutter |
+| State Management | GetX |
+| Backend | Firebase (Auth + Firestore) |
+| Payment Integration | Paymob |
+| Architecture | Feature-Based + Modular (MVC, MVVM) |
+
+---
+
 
 ##  About
 Built by **Rana**  
