@@ -114,7 +114,7 @@
 
 
 ##  About
-Built by **Rana**  
+  
 Developed with **Flutter** and **GetX**, following clean and scalable architecture principles.
 
 
