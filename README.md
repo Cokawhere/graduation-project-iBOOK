@@ -108,7 +108,7 @@
 | State Management | GetX |
 | Backend | Firebase (Auth + Firestore) |
 | Payment Integration | Paymob |
-| Architecture | Feature-Based + Modular (MVC, MVVM) |
+| Architecture | Feature-Based + Modular (MVVM) |
 
 ---
 
@@ -122,7 +122,7 @@ Firebase (Auth + Firestore) as backend
 
 Paymob for secure online payments
 
-Feature-Based Architecture, Modular Code Architecture (MVC, MVVM)
+Feature-Based Architecture, Modular Code Architecture (MVVM)
 =======
 Chat & Chatbot system for user support,
 
